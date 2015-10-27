@@ -6,3 +6,4 @@ getwd
 remove
 local_add
 web_add
+last_add
